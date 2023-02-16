@@ -13,7 +13,7 @@ const a = ["Merhaba",22,null,undefined,3.14];
 //Uzunluk
 value =numbers.length;
 
-//İndeksleme
+//İndeksleme ve indeksleme
 value = numbers[0];
 
 
