@@ -1,6 +1,7 @@
 //Birden fazla değeri depolamak için kullanılır.
 
 let value;
+//test 2
 
 const numbers = [43,56,33,23,44,35,5];
 
